@@ -4,23 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7eb27aa-df18-48b2-a3de-756c7bd1aa52" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/de/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/java/d1_1/OtherClass.java" afterDir="false" />
+    <list default="true" id="f7eb27aa-df18-48b2-a3de-756c7bd1aa52" name="변경" comment="java practice day_1">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/class1_1/CalculationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/class1_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/Assignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/Bool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/Byte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/Comparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/DoWhileStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/ForEachStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/ForStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/Logical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/ReferenceTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/WhileQuiz1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/WhileQuiz2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/WhileStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/java/d1_1/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/java/d1_1/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +52,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pjjongho&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/pjjongho/data-engineering.git&quot;,
+    &quot;accountId&quot;: &quot;5e6841ca-6f99-443a-a991-cb3e91743000&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2nC8vIqH6XkgqxZDlTMtGZ3jsLM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -58,21 +83,96 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.java-practice_d1 [:com.practice.class1_1.CalculationTest.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.class1_1.Main.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.Arithmetic.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.Array.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.Assignment.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.Bool.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.Byte.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.Character.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.Comparison.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.DoWhileStatement.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.ForEachStatement.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.ForStatement.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.IfStatement.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.Logical.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.Numbers.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.ReferenceTypes.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.SwitchStatement.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.TernaryOperator.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.WhileQuiz1.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.WhileQuiz2.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day3.WhileStatement.main()].executor": "Run",
     "Gradle.java-practice_d1 [:com.practice.de.Main.main()].executor": "Run",
     "Gradle.java-practice_d1 [:com.practice.java.d1_1.OtherClass.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.java.d1_1.Variables.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="OtherClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.java.d1_1.OtherClass" />
+  <component name="RunManager" selected="애플리케이션.SwitchStatement">
+    <configuration name="CalculationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.class1_1.CalculationTest" />
       <module name="java-practice_d1.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.java.d1_1.*" />
+          <option name="PATTERN" value="com.practice.class1_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.class1_1.Main" />
+      <module name="java-practice_d1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.class1_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.day3.SwitchStatement" />
+      <module name="java-practice_d1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileQuiz1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.day3.WhileQuiz1" />
+      <module name="java-practice_d1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileQuiz2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.day3.WhileQuiz2" />
+      <module name="java-practice_d1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,7 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.OtherClass" />
+        <item itemvalue="애플리케이션.SwitchStatement" />
+        <item itemvalue="애플리케이션.CalculationTest" />
+        <item itemvalue="애플리케이션.Main" />
+        <item itemvalue="애플리케이션.WhileQuiz2" />
+        <item itemvalue="애플리케이션.WhileQuiz1" />
       </list>
     </recent_temporary>
   </component>
@@ -95,6 +199,34 @@
       <option name="presentableId" value="Default" />
       <updated>1728465926999</updated>
     </task>
+    <task id="LOCAL-00001" summary="java practice day_1">
+      <option name="closed" value="true" />
+      <created>1728473273715</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728473273715</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java practice day_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="java practice day_1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/practice/day3/SwitchStatement.java</url>
+          <line>6</line>
+          <properties class="com.practice.day3.SwitchStatement" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
