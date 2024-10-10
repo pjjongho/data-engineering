@@ -114,7 +114,20 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.SwitchStatement">
+  <component name="RunManager" selected="애플리케이션.Array">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.day3.Array" />
+      <module name="java-practice_d1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.class1_1.CalculationTest" />
       <module name="java-practice_d1.main" />
@@ -154,19 +167,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileQuiz1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.day3.WhileQuiz1" />
-      <module name="java-practice_d1.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WhileQuiz2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.day3.WhileQuiz2" />
       <module name="java-practice_d1.main" />
@@ -182,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Array" />
         <item itemvalue="애플리케이션.SwitchStatement" />
         <item itemvalue="애플리케이션.CalculationTest" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.WhileQuiz2" />
-        <item itemvalue="애플리케이션.WhileQuiz1" />
       </list>
     </recent_temporary>
   </component>

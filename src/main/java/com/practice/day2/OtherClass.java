@@ -1,4 +1,4 @@
-package com.practice.java.d1_1;
+package com.practice.day2;
 
 public class OtherClass {
 

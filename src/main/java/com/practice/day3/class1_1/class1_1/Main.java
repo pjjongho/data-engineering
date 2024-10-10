@@ -1,4 +1,4 @@
-package com.practice.class1_1;
+package com.practice.day3.class1_1.class1_1;
 
 public class Main {
     static class Person {
