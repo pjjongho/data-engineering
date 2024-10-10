@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7eb27aa-df18-48b2-a3de-756c7bd1aa52" name="변경" comment="java practice day_1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/class1_1/CalculationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/class1_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/Assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/Bool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/Byte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/Comparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/DoWhileStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/ForEachStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/ForStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/IfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/Logical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/ReferenceTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/SwitchStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/WhileQuiz1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/WhileQuiz2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day3/WhileStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/java/d1_1/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/java/d1_1/Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f7eb27aa-df18-48b2-a3de-756c7bd1aa52" name="변경" comment="java practice day_2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,12 +180,37 @@
       <option name="project" value="LOCAL" />
       <updated>1728473273715</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="java practice day_2">
+      <option name="closed" value="true" />
+      <created>1728562607282</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728562607282</updated>
+    </task>
+    <task id="LOCAL-00003" summary="java practice day_2">
+      <option name="closed" value="true" />
+      <created>1728563408672</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728563408672</updated>
+    </task>
+    <task id="LOCAL-00004" summary="java practice day_2">
+      <option name="closed" value="true" />
+      <created>1728563422867</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728563422867</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java practice day_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="java practice day_1" />
+    <MESSAGE value="java practice day_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="java practice day_2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
