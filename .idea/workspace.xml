@@ -4,18 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7eb27aa-df18-48b2-a3de-756c7bd1aa52" name="변경" comment="java practice day4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day5/DateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day5/DurationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day5/LocalDateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day5/LocalDateTimeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day5/LocalTimeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day5/PeriodExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day5/ZonedDateTimeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day5_CollectionStructure/ListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day5_CollectionStructure/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day5_CollectionStructure/SetExample.java" afterDir="false" />
+    <list default="true" id="f7eb27aa-df18-48b2-a3de-756c7bd1aa52" name="변경" comment="java practice day5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day6/ArrayDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day6/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day6/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day6/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day6/StackExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day6/SteamExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day6/SteamExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day6/StramExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day6/StreamExaple1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/day6/StreamQuiz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -51,7 +53,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -113,6 +115,16 @@
     "Gradle.java-practice_d1 [:com.practice.day5_CollectionStructure.ListExample.main()].executor": "Run",
     "Gradle.java-practice_d1 [:com.practice.day5_CollectionStructure.MapExample.main()].executor": "Run",
     "Gradle.java-practice_d1 [:com.practice.day5_CollectionStructure.SetExample.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day6.ArrayDeque.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day6.LambdaExample.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day6.LambdaExampleErrorCase.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day6.Queue.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day6.StackExample.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day6.SteamExample2.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day6.SteamExample3.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day6.StramExample4.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day6.StreamExaple1.main()].executor": "Run",
+    "Gradle.java-practice_d1 [:com.practice.day6.StreamQuiz.main()].executor": "Run",
     "Gradle.java-practice_d1 [:com.practice.de.Main.main()].executor": "Run",
     "Gradle.java-practice_d1 [:com.practice.java.d1_1.OtherClass.main()].executor": "Run",
     "Gradle.java-practice_d1 [:com.practice.java.d1_1.Variables.main()].executor": "Run",
@@ -129,13 +141,13 @@
       <recent name="com.practice.day4_1" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.MapExample">
-    <configuration name="DurationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.day5.DurationExample" />
+  <component name="RunManager" selected="애플리케이션.StreamQuiz">
+    <configuration name="SteamExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.day6.SteamExample2" />
       <module name="java-practice_d1.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.day5.*" />
+          <option name="PATTERN" value="com.practice.day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.day5_CollectionStructure.ListExample" />
+    <configuration name="SteamExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.day6.SteamExample3" />
       <module name="java-practice_d1.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.day5_CollectionStructure.*" />
+          <option name="PATTERN" value="com.practice.day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.day5_CollectionStructure.MapExample" />
+    <configuration name="StramExample4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.day6.StramExample4" />
       <module name="java-practice_d1.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.day5_CollectionStructure.*" />
+          <option name="PATTERN" value="com.practice.day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PeriodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.day5.PeriodExample" />
+    <configuration name="StreamExaple1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.day6.StreamExaple1" />
       <module name="java-practice_d1.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.day5.*" />
+          <option name="PATTERN" value="com.practice.day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.day5_CollectionStructure.SetExample" />
+    <configuration name="StreamQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.day6.StreamQuiz" />
       <module name="java-practice_d1.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.day5_CollectionStructure.*" />
+          <option name="PATTERN" value="com.practice.day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.MapExample" />
-        <item itemvalue="애플리케이션.SetExample" />
-        <item itemvalue="애플리케이션.ListExample" />
-        <item itemvalue="애플리케이션.DurationExample" />
-        <item itemvalue="애플리케이션.PeriodExample" />
+        <item itemvalue="애플리케이션.StreamQuiz" />
+        <item itemvalue="애플리케이션.StramExample4" />
+        <item itemvalue="애플리케이션.SteamExample3" />
+        <item itemvalue="애플리케이션.SteamExample2" />
+        <item itemvalue="애플리케이션.StreamExaple1" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728649436121</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="java practice day5">
+      <option name="closed" value="true" />
+      <created>1728719662977</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728719662977</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -294,7 +314,8 @@
     <MESSAGE value="java practice day_2" />
     <MESSAGE value="java practice" />
     <MESSAGE value="java practice day4" />
-    <option name="LAST_COMMIT_MESSAGE" value="java practice day4" />
+    <MESSAGE value="java practice day5" />
+    <option name="LAST_COMMIT_MESSAGE" value="java practice day5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
